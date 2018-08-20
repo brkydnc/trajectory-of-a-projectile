@@ -11,7 +11,7 @@ Scroll Down - Increase the trajectory dot count
 ## How to run ?
 First download the project, then get in to the directory
 ```
-$ cd trajectory-of-a-particle
+$ cd trajectory-of-a-projectile
 ```
 Download the dependencies
 ```
